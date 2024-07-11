@@ -1,0 +1,19 @@
+# node_modulesディレクトリを無視
+node_modules/
+
+# OS固有のファイルを無視
+.DS_Store
+
+# 環境設定ファイルを無視
+.env
+
+# ログファイルを無視
+*.log
+
+# 一時ファイルを無視
+*.tmp
+
+# ビルド成果物を無視
+dist/
+build/
+coverage/
